@@ -16,3 +16,12 @@ def add(x,y):
     print("Sum=",(x+y))
 
 add(2,3)
+
+
+def welcome():
+    '''
+    Docstring for welcome
+
+    '''
+    print("Welcome to the program!")
+welcome()
